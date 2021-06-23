@@ -1,2 +1,2 @@
-##ArchyKode
+## ArchyKode
 - Architecture diagram as code
